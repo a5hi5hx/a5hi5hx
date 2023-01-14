@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a5hi5hx
 - 👀 I’m interested in App Development and Security Research.
-- 🌱 I’m currently learning Flutter, Python and so called CEH,,,
+- 🌱 I’m currently learning Flutter, NodeJs, Python
 - 💞️ I’m looking to collaborate on deep
 - 📫 How to reach me through my twitter handel 
 
