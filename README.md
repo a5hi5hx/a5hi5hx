@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=a5hi5hx&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5hi5hx&hide=TeX&layout=compact)
-<details>
-  <summary>🏆 My Github Trophies</summary>
+
+### 🏆 My Github Trophies
 
 
   <a href="https://github.com/a5hi5hx?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=a5hi5hx&column=8&theme=discord&no-frame=true"/></a>
-</details>
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=a5hi5hx&color=green)
 
 ### Languages and Tools
