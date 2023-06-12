@@ -13,6 +13,8 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/ashishpaudel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
+![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
+
 ### You can find my stuff here :leaves:
 
 - My Personal Website :yum: [Works](https://github.com/a5hi5hx)
@@ -44,6 +46,17 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
+### 👨 My Github Activity
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a5hi5hx&theme=algolia&hide_border=true" width="700"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a5hi5hx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a5hi5hx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a5hi5hx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a5hi5hx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a5hi5hx&theme=github_dark&utcOffset=8)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=a5hi5hx&count_private=true&show_icons=true&include_all_commits=true)
 
