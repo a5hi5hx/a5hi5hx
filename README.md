@@ -1,13 +1,13 @@
 ## Hi there नमस्ते (Namaste)! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
-<h4> Fullstack Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I'm a full-stack web-developer from Pokhara, Nepal. I graduated in Computer Science and Information Technology from Mount Annapurna Campus, Nepal. I like building new stuff and working with other people.
+<h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+I'm a full-stack web-developer from Kathmandu, Nepal. I graduated in Computer Science and Information Technology from Prime College, Nepal. I like building new stuff and working with other people.
 
 
-[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/prajwal.ia](https://www.instagram.com/ashishpaudel1/)r/)]([https://instagram.com/prajwal.iar](https://www.instagram.com/ashishpaudel1/))
-[![Gmail Badge](https://img.shields.io/badge/-ashishr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwal.iar@gmail.com)](mailto:ashishpaudel54@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
-[![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-@ashishpaudel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ashishpaudel1/)](https://www.instagram.com/ashishpaudel1/)
+[![Gmail Badge](https://img.shields.io/badge/-ashishpaudel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishpaudel54@gmail.com)](mailto:ashishpaudel54@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AshishPaudel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-paudel/)](https://www.linkedin.com/in/ashish-paudel/)
+[![Facebook Badge](https://img.shields.io/badge/-@ashishPaudel-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ashishpaudelofficial/ "Contact on Facebook")
 
 Like My Work?
 
@@ -15,12 +15,12 @@ Like My Work?
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [raiprajwal.com](https://raiprajwal.com)
+- My Personal Website :yum: [Works](https://github.com/a5hi5hx)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Swivt Technologies
-- 🌱 I’m currently learning Flutter & VueJS
+- 🔭 I’m currently working on Brand Builder Pvt. Ltd.
+- 🌱 I’m currently learning Flutter & Node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=a5hi5hx&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal100&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5hi5hx&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
 
@@ -68,8 +68,3 @@ Here are some ideas to get you started:
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-<!---
-a5hi5hx/a5hi5hx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
