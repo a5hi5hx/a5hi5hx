@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5hi5hx&hide=TeX&layout=compact)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=a5hi5hx&color=green)
 
 ### Languages and Tools
 
