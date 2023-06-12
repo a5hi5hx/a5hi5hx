@@ -14,10 +14,23 @@ Like My Work?
 <a href="https://www.buymeacoffee.com/ashishpaudel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Languages and Tools:</h3>
+
+![](https://skillicons.dev/icons?i=arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,nodejs,postgres,prisma,react,vscode,vercel,workers&perline=20) 
+
+
+### 👨‍💻 I love listening to Music on my leasure time. 🎶
+
+<a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
+</p>
+
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [Works](https://github.com/a5hi5hx)
+- My Personal Website :yum: [Visit](https://github.com/a5hi5hx)
 
 Here are some ideas to get you started:
 
@@ -61,66 +74,7 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=a5hi5hx&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5hi5hx&hide=TeX&layout=compact)
-<hr>
 
-
-### 📊 Some More Details
-
-<details>
-<summary>✨ More Detailed Stats </summary>
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm a night 🦉** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |39 commits          |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|31.45%|
-|🌆 Daytime                |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
-|🌃 Evening                |85 commits          |![](https://via.placeholder.com/276x22/000000/000000?text=+)![](https://via.placeholder.com/124x22/b8b8b8/b8b8b8?=text=+)|68.55%|
-|🌙 Night                  |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
-| | | | |
-
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Wednesdays** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.32%|
-|Tuesday                  |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.09%|
-|Wednesday                |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.04%|
-|Thursday                 |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.09%|
-|Friday                   |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.09%|
-|Saturday                 |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.04%|
-|Sunday                   |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.32%|
-| | | | |
-
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-</details>
-
-
-<details>
-<summary>⚡ My recent Github Activity</summary>
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/muety/muety/issues/10) in [muety/muety](https://github.com/muety/muety)
-2. ❗️ Opened issue [#10](https://github.com/muety/muety/issues/10) in [muety/muety](https://github.com/muety/muety)
-3. 🗣 Commented on [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
-4. ❗️ Reopened issue [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
-<!--END_SECTION:activity-->
-
-
-</details>
-
-<details>
-  <summary>🏆 My Github Trophies</summary>
-
-
-  <a href="https://github.com/Parajulibkrm?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=parajulibkrm&column=8&theme=discord&no-frame=true"/></a>
-</details>
-
-<hr>
 ### 🏆 My Github Trophies
 
 
