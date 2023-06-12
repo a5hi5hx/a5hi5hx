@@ -4,14 +4,14 @@
 I'm a full-stack web-developer from Pokhara, Nepal. I graduated in Computer Science and Information Technology from Mount Annapurna Campus, Nepal. I like building new stuff and working with other people.
 
 
-[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prajwal.iar/)](https://instagram.com/prajwal.iar)
-[![Gmail Badge](https://img.shields.io/badge/-prajwal.iar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwal.iar@gmail.com)](mailto:prajwal.iar@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/prajwal.ia](https://www.instagram.com/ashishpaudel1/)r/)]([https://instagram.com/prajwal.iar](https://www.instagram.com/ashishpaudel1/))
+[![Gmail Badge](https://img.shields.io/badge/-ashishr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwal.iar@gmail.com)](mailto:ashishpaudel54@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
 [![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/prajwalrai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/ashishpaudel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### You can find my stuff here :leaves:
 
