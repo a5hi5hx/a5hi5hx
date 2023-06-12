@@ -16,7 +16,7 @@ Like My Work?
 ![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://skillicons.dev/icons?i=arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,nodejs,postgres,prisma,react,vscode,vercel,workers&perline=20) 
+![](https://skillicons.dev/icons?i=flutter,dart, nodejs,cyclic,androdstudio,arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,postgres,prisma,react,vscode,vercel,workers&perline=20) 
 
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
