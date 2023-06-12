@@ -14,7 +14,7 @@ Like My Work?
 <a href="https://www.buymeacoffee.com/ashishpaudel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <!-- ![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg) -->
-![Snake animation](https://raw.githubusercontent.com/a5hi5hx/snake/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 
