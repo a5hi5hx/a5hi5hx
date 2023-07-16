@@ -14,11 +14,12 @@ Like My Work?
 <a href="https://www.buymeacoffee.com/ashishpaudel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <!--- ![snake animation](https://github.com/a5hi5hx/a5hi5hx/blob/output/github-contribution-grid-snake2.svg) --->
-<picture>
+<!--- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> --->
+![snake gif](https://github.com/a5hi5hx/a5hi5hx/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Languages and Tools:</h3>
 
