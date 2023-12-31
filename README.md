@@ -1,7 +1,7 @@
 ## Hi there नमस्ते (Namaste)! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h4> Fullstack Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I'm a Full-Stack Android-Developer from Pokhara, Nepal. I graduated in Computer Science and Information Technology from Mount Annapurna Campus, Nepal. I like building new stuff and working with other people.
+I'm a Full-Stack Android-Developer from Pokhara, Nepal. I graduated in Computer Science and Information Technology from Mount Annapurna Campus, Nepal affiliated to Tribhuvan University. I like building new stuff and working with other people.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@ashishpaudel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ashishpaudel1/)](https://www.instagram.com/ashishpaudel1/)
