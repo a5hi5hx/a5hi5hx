@@ -5,7 +5,7 @@ I'm a Full-Stack Android-Developer from Pokhara, Nepal. I graduated Bachelors in
 
 <p align="center">
  
-</p>
+
 [![Instagram Badge](https://img.shields.io/badge/-@ashishpaudel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ashishpaudel1/)](https://www.instagram.com/ashishpaudel1/)
 [![Gmail Badge](https://img.shields.io/badge/-ashishpaudel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishpaudel54@gmail.com)](mailto:ashishpaudel54@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-AshishPaudel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-paudel/)](https://www.linkedin.com/in/ashish-paudel/)
