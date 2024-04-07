@@ -32,16 +32,14 @@ Like My Work?
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://skillicons.dev/icons?i=flutter,dart,nodejs,androidstudio,arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,postgres,prisma,react,vscode,vercel,workers&perline=20) 
+![](https://skillicons.dev/icons?i=flutter,dart,nodejs,nextjs,typescript,tailwind,androidstudio,dynamodb,express,git,graphql,vercel,js,ts,mongodb,netlify,postgres,react,vscode,vercel&perline=20) 
 
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
 
 <a href="https://github.com/a5hi5hx" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
-<p align="center">
-  <a href="https://github.com/a5hi5hx" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
-</p>
+
 
 
 ### You can find my stuff here :leaves:
